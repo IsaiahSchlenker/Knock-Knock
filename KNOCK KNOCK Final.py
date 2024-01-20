@@ -2,7 +2,7 @@
 """
 Created on Thu Jan 18 19:13:10 2024
 
-@author: chibuike
+@author: Chibuike and Isaiah
 """
 
 firstname = input("Please what is your name? ")
