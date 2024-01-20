@@ -2,7 +2,7 @@
 """
 Created on Thu Jan 18 19:13:10 2024
 
-@author: Chibuike and Isaiah
+@author: Isaiah
 """
 answer1 = ["who is there", "who is there?", "who's there?", "who's there", "whos there", "whos there?"]
 answer2 = ["letuce who?", "letuce who", "lettuce who?", "lettuce who"]
